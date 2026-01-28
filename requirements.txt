@@ -1,0 +1,9 @@
+
+aiohttp
+PyJWT
+pycryptodome
+blackboxprotobuf
+protobuf
+requests
+colorama
+Crypto
